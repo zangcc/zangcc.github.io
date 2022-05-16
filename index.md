@@ -31,10 +31,10 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zangcc/zangcc.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-<audio controls="controls" autoplay="autoplay" loop="true">
-  <source src="http://114.132.228.251/wp-content/uploads/2022/05/MerryChristmasMr_Lawres.mp3" type="audio/mpeg" />
-Your browser does not support the audio element.
-</audio>
+
+
+<audio src="http://114.132.228.251/wp-content/uploads/2022/05/MerryChristmasMr_Lawres.mp3"></audio>
+
 
 ### Support or Contact
 
