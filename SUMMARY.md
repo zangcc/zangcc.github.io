@@ -1,11 +1,12 @@
 # Table of contents
 
-* [zangcc.github.io](README.md)
+* [😀 Eureka-zangcc](README.md)
 * [👋 Welcome!](welcome.md)
 
 ## About us
 
 * [🚀 Vision, Mission & Focus](about-us/vision-mission-and-focus/README.md)
+  * [Page 3](about-us/vision-mission-and-focus/page-3.md)
   * [Vision](about-us/vision-mission-and-focus/vision.md)
   * [Mission](about-us/vision-mission-and-focus/mission.md)
   * [Focus](about-us/vision-mission-and-focus/focus.md)
